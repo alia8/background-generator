@@ -1,0 +1,55 @@
+body{
+    background-color: rgba(39, 116, 85);
+}
+c{
+    color:rgba(128, 186, 93);
+}
+header{
+    display:inline-block;
+}
+a:link {
+    color: white; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: purple;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color:white;
+    background-color: transparent;
+    text-decoration: none;
+}
+img{
+     height: 600px;
+    width: auto;
+}
+.container {
+    position: relative;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.center2 {
+    position: absolute;
+    top: 70%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+}
+h1{
+    font-size: 
+}
